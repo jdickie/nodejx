@@ -1,0 +1,11 @@
+{
+  "name": "nodejx",
+  "version": "1.0.0",
+  "description": "Test node project for JX",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "GDickie",
+  "license": "MIT"
+}
